@@ -4,22 +4,22 @@
 [![](https://camo.githubusercontent.com/cb8cb80af654f3dae14a4aa62e44bf62f16953d6/68747470733a2f2f6a617977636a6c6f76652e6769746875622e696f2f73622f6c616e672f6368696e6573652e737667)](README.md)
 [![](https://camo.githubusercontent.com/15a53d5ec5d896319068168a27da0203156bbdb9/68747470733a2f2f6a617977636a6c6f76652e6769746875622e696f2f73622f6c616e672f656e676c6973682e737667)](README-en.md)
 
-区块链课程。
+Blockchain related courses.
 
 [中文](README.md) | [English](README-en.md)
 
-## 目录
+## Contents
 
 * [Bitcoin and Cryptocurrency Technologies | Coursera](https://www.coursera.org/learn/cryptocurrency)
-* [Ethereum Blockchain Education](https://consensys.net/academy/) - consensys 推出的课程
+* [Ethereum Blockchain Education](https://consensys.net/academy/) - consensys introduced courses
 * [Ethereum and Solidity: The Complete Developer's Guide | Udemy](https://www.udemy.com/ethereum-and-solidity-the-complete-developers-guide/learn/v4/overview)
 * [Ethereum : Decentralized Application Design & Development | Udemy](https://www.udemy.com/ethereum-dapp/learn/v4/overview)
 * [GitHub - androlo/solidity-workshop: Educational material for Solidity. Complement to solidity.readthedocs.com](https://github.com/androlo/solidity-workshop)
 * [Ethereum Network - The Hitchhiker's Guide to the Ethereum Blockchain](https://ethereum.network/learn)
 * [DappHub · GitHub](https://github.com/dapphub)
 * [B9lab delivers education, advisory & research on blockchain and decentralised applications.](https://www.b9lab.com/)
-* [GitHub - anders94/blockchain-demo: A web-based demonstration of blockchain concepts.](https://github.com/anders94/blockchain-demo) - 用可视化的方法展示区块链原理
-* [GitHub - anders94/public-private-key-demo: Demonstrates public / private key pairs and signing in a blockchain context](https://github.com/anders94/public-private-key-demo) - 用可视化的方法展示非对称加密
+* [GitHub - anders94/blockchain-demo: A web-based demonstration of blockchain concepts.](https://github.com/anders94/blockchain-demo) - Visualize the blockchain principle
+* [GitHub - anders94/public-private-key-demo: Demonstrates public / private key pairs and signing in a blockchain context](https://github.com/anders94/public-private-key-demo) - Visualize Asymmetric Encryption
 
 ## License
 
