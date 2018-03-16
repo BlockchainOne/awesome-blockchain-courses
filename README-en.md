@@ -21,6 +21,11 @@ Blockchain related courses. Submit PR refer [contributing](contributing.md)，su
 * [GitHub - anders94/blockchain-demo: A web-based demonstration of blockchain concepts.](https://github.com/anders94/blockchain-demo) - Visualize the blockchain principle
 * [GitHub - anders94/public-private-key-demo: Demonstrates public / private key pairs and signing in a blockchain context](https://github.com/anders94/public-private-key-demo) - Visualize Asymmetric Encryption
 
+## Donate
+
+* BTC: 1HRZ7og2KjqpP3v3jskgueNu64kJrFU8GD
+* ETH: 0x5c8DEB48dC08b5dC60A0290B718690a801509Dd1
+
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)

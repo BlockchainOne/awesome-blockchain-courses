@@ -21,6 +21,11 @@
 * [GitHub - anders94/blockchain-demo: A web-based demonstration of blockchain concepts.](https://github.com/anders94/blockchain-demo) - 用可视化的方法展示区块链原理
 * [GitHub - anders94/public-private-key-demo: Demonstrates public / private key pairs and signing in a blockchain context](https://github.com/anders94/public-private-key-demo) - 用可视化的方法展示非对称加密
 
+## 捐赠
+
+* BTC: 1HRZ7og2KjqpP3v3jskgueNu64kJrFU8GD
+* ETH: 0x5c8DEB48dC08b5dC60A0290B718690a801509Dd1
+
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
